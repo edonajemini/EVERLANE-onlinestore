@@ -3,7 +3,6 @@ import '../pages/HomePage.css'
 export function HomePage(){
     return(
         <>
-       <Header/>
         </>
     )
 }
