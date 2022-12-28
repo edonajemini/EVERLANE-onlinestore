@@ -6,6 +6,11 @@ export function Header(){
         <li className="logo">
        <a href="/homepage"> <img src={logo} width="100px" alt="indeed-logo" /> </a>
       </li>
+      <li>
+        <form className="search-form">
+            <input></input>
+        </form>
+      </li>
         </ul>
         </>
     )
