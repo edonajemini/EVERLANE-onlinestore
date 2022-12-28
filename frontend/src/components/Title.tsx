@@ -1,9 +1,9 @@
 export function Title(){
     return(
         <div className="title">
-        <h1>
+        <h2>
             EVERLANE
-        </h1>
+        </h2>
         </div>
     )
 }
