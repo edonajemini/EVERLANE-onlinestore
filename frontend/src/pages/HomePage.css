@@ -114,3 +114,20 @@
     border: thin solid rgba(128, 128, 128, 0.242);
     justify-self: center;
 }
+.everlane_IRL{
+    display: grid;
+    grid-auto-flow: row;
+    justify-content: center;
+    text-align: center;
+    padding-top:50px ;
+}
+.everlane_IRL_posts{
+    display: grid;
+    grid-auto-flow: column;
+    gap: 20px;
+    padding-top:50px ;
+}
+.everlane_IRL_form{
+    display: grid;
+
+}
