@@ -21,7 +21,6 @@ export function Header(){
             <NavLink  to={"/stories"}>Stories</NavLink>
             </li>
         </ul>
-       
         <ul className="header-icons">
             <li> <CiSearch/> </li>
             <li>
