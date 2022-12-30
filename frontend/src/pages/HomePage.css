@@ -129,5 +129,6 @@
 }
 .everlane_IRL_form{
     display: grid;
-
+    justify-content: left;
+    text-align: left;
 }
